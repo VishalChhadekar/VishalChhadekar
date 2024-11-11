@@ -71,7 +71,9 @@
 </p>
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalChhadekar&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalChhadekar&theme=algolia)
 ---
 
 Thank you for visiting my profile! Let’s connect and collaborate!
