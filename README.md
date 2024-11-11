@@ -71,5 +71,7 @@
 </p>
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=default)
+---
 
 Thank you for visiting my profile! Let’s connect and collaborate!
