@@ -76,7 +76,7 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalChhadekar&theme=algolia" width="800">
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=default" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=algolia" width="400">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalChhadekar&theme=algolia" width="400">
 </p>
 ---
