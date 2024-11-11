@@ -2,7 +2,8 @@
 <h3 align="center">An innovative Full Stack Developer specializing in AI and advanced Web Development</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Vishal's+GitHub+Profile!" alt="banner" width="800" />
+<!--   <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Vishal's+GitHub+Profile!" alt="banner" width="800" /> -->
+  <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </p>
 
 <p align="center">
@@ -72,11 +73,11 @@
 
 ---
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalChhadekar&theme=algolia)
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalChhadekar&theme=algolia" width="800">
 </p>
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalChhadekar&theme=algolia)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalChhadekar&theme=default" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalChhadekar&theme=algolia" width="400">
 </p>
 ---
 
