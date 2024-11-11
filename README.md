@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Chhadekar</h1>
-<h3 align="center">An innovative Full Stack Developer specializing in AI and advanced Web Development</h3>
+<h3 align="center">An innovative Full Stack Developer specializing in Conversational AI and advanced Web Development</h3>
 
 <p align="center">
 <!--   <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Vishal's+GitHub+Profile!" alt="banner" width="800" /> -->
