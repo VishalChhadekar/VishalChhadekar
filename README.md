@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  I’m a Full Stack Developer with nearly 3 years of hands-on experience in building dynamic, scalable applications using MERN & MEAN stacks, Java, Spring Boot, and Angular. I bring expertise in designing responsive and optimized user interfaces, high-performance, scalable, efficient backend systems, and AI-driven conversational solutions that elevate user experience and empower businesses.
+  I’m a Full Stack Developer with nearly 3 years of hands-on experience in building dynamic, scalable applications using MERN & MEAN stacks, Java, Spring Boot, and Angular.    I bring expertise in designing responsive and optimized user interfaces, high-performance, scalable, efficient backend systems, and AI-driven conversational solutions that 
+  ,elevate user experience and empower businesses.
 </p>
 
 - 🌱 Currently expanding my skills in **AI and Conversational AI**, and exploring new ways to integrate AI into user-centric applications.
@@ -23,47 +24,52 @@
 </p>
 
 ---
+  <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h4 align="left">Languages:</h4>
 <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">Frontend Frameworks & Libraries:</h4>
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">Backend Frameworks & Libraries:</h4>
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">Databases:</h4>
+<p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">DevOps Tools:</h4>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> </a>
 </p>
 
----
+<h4 align="left">Other Tools & Technologies:</h4>
+<p align="left">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/> </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/> </a>
+</p>
 
-<h3 align="left">🏆 Achievements:</h3>
-- 🌟 **Rising Leader**  
-- 🌟 **Star Performer**
-
----
-
-<h3 align="left">💼 Experience:</h3>
-
-- **Senior Full-Stack Developer** (06/2024 - Present)  
-  *AIonOS (IndiGo, Interglobe), Hyderabad*  
-  *Project: Travel Asist*  
-  - Spearheaded the design and deployment of AI-driven chatbots using Kore.ai.
-  - Built and integrated custom web applications with chatbot functionality for seamless UX.
-
-- **Full-Stack Developer** (12/2022 - 06/2024)  
-  *MJB Technology Solutions, Hyderabad*  
-  *Projects: CheckSammy Waste Management Platform, SprintFlow*  
-  - Migrated platforms to Next.js, enhancing scalability and reducing load times by up to 85%.
-
-- **Java Developer** (01/2022 - 06/2022)  
-  *Infosys Ltd, Pune*  
-  *Project: Reserva*  
-  - Designed and developed an insurance application using Java and Spring Boot, focusing on creating REST APIs, conducting unit testing, and analyzing code changes to meet business requirements.
-  - Conducted code reviews to ensure code quality and adherence to software standards.
 ---
 
 Thank you for visiting my profile! Let’s connect and collaborate!
