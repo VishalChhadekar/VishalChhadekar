@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vishal Chhadekar</h1>
-<h3 align="center">A passionate Full Stack Developer specializing in AI and Web Development from India 🇮🇳</h3>
+<h3 align="center">An innovative Full Stack Developer specializing in AI and advanced Web Development</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/xxxx/banner.png" alt="banner" width="800" />
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Vishal's+GitHub+Profile!" alt="banner" width="800" />
 </p>
 
 <p align="center">
-  Full Stack Developer with 2.5+ years of experience in MERN & MEAN stacks. Skilled in crafting high-performance web applications, integrating AI-driven chatbots, and enhancing UX with fast, responsive, and optimized code.
+  I’m a Full Stack Developer with nearly 3 years of hands-on experience in building dynamic, scalable applications using MERN & MEAN stacks, Java, Spring Boot, and Angular. I bring expertise in designing responsive and optimized user interfaces, high-performance, scalable, efficient backend systems, and AI-driven conversational solutions that elevate user experience and empower businesses.
 </p>
 
-- 🌱 I’m currently expanding my skills in **AI and Conversational AI**.
-- 🔭 I’m currently working on **Travel Asist** at AIonOS (IndiGo, Interglobe).
-- 📫 How to reach me: **vishalchhadekar95@gmail.com**
-- ⚡ Fun fact: I believe in continuous learning and pushing my limits to master new technologies.
+- 🌱 Currently expanding my skills in **AI and Conversational AI**, and exploring new ways to integrate AI into user-centric applications.
+- 🔭 I’m working on **Travel Asist** at AIonOS (IndiGo, Interglobe), where I blend my technical and AI skills to deliver seamless digital solutions.
+- 📫 Reach me at: **vishalchhadekar95@gmail.com**
+- ⚡ Fun fact: My passion for technology is matched only by my drive to keep learning and innovating.
 
 ---
 
@@ -40,11 +40,6 @@
 
 ---
 
-<h3 align="left">📈 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalChhadekar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 <h3 align="left">🏆 Achievements:</h3>
 - 🌟 **Rising Leader**  
 - 🌟 **Star Performer**
@@ -64,6 +59,11 @@
   *Projects: CheckSammy Waste Management Platform, SprintFlow*  
   - Migrated platforms to Next.js, enhancing scalability and reducing load times by up to 85%.
 
+- **Java Developer** (01/2022 - 06/2022)  
+  *Infosys Ltd, Pune*  
+  *Project: Reserva*  
+  - Designed and developed an insurance application using Java and Spring Boot, focusing on creating REST APIs, conducting unit testing, and analyzing code changes to meet business requirements.
+  - Conducted code reviews to ensure code quality and adherence to software standards.
 ---
 
 Thank you for visiting my profile! Let’s connect and collaborate!
