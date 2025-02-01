@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I’m a Full Stack Developer with nearly 3 years of hands-on experience in building dynamic, scalable applications. I bring expertise in designing responsive and optimized user interfaces, high-performance, scalable, efficient backend systems, and AI-driven conversational solutions that,elevate user experience and empower businesses.
+  I’m a Full Stack Developer with over 3 years of hands-on experience in building dynamic, scalable applications. I bring expertise in designing responsive and optimized user interfaces, high-performance, scalable, efficient backend systems, and AI-driven conversational solutions that,elevate user experience and empower businesses.
 </p>
 
 - 🌱 Currently expanding my skills in **AI and Conversational AI**, and exploring new ways to integrate AI into user-centric applications.
